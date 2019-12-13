@@ -1,5 +1,7 @@
 # Milton
 
+![Milton](/images/logo.png)
+
 Class Project for C++
 
 #JustGirlyThings
