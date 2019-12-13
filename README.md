@@ -1,6 +1,6 @@
 # Milton
 
-![Milton](/Milton.JPG)
+![Milton](/Milton2.jpg)
 
 Class Project for C++
 
