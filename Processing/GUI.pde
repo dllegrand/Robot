@@ -68,7 +68,7 @@ void setup(){
     ;
   cp5.addButton("Bees")
     .setPosition(230,310)
-    .setImages(loadImage("bee.png"),loadImage("bee.png"),loadImage("bee.png"))
+    .setImages(loadImage("bee.png"),loadImage("running.png"),loadImage("bee.png"))
     .updateSize()
     ;
 
